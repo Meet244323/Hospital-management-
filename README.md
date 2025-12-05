@@ -23,11 +23,10 @@ Hospital Management System using Php
 ## Languages and Technologies used
 1. HTML5/CSS3
 2. JavaScript (to create dynamically updating content)
-3. Bootstrap (An HTML, CSS, and JS library)
-4. XAMPP (A web server by Apache Friends)
-5. Php
-6. MySQL (An RDBMS that uses SQL)
-7. TCPDF (to generate PDFs)
+3. XAMPP (A web server by Apache Friends)
+4. Php
+5. MySQL (An RDBMS that uses SQL)
+6. TCPDF (to generate PDFs)(_this was not saw in folder because the project folders are too much the github cannot accept to integrate so some folder are not Displayed in it...)
 
 ## Steps to run the project in your machine
 1. Download and install XAMPP in your machine
