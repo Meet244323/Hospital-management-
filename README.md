@@ -2,6 +2,8 @@
 Hospital Management System using Php 
 
 
+<img width="1918" height="908" alt="Hospital-management login-page" src="https://github.com/user-attachments/assets/fddb7c46-272c-4cb9-b479-2082746790ba" />
+<img width="1918" height="907" alt="Hospital-management Home-page" src="https://github.com/user-attachments/assets/1b8a4f8c-f1a1-430e-9bf5-b15f35f47e00" />
 
 
 ## Need to work on:
